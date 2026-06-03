@@ -1,4 +1,4 @@
-# Defender Deactivation Script
+# Windows-Defender-Deactivation
 
 A native PowerShell utility designed for the absolute neutralization of Microsoft Defender in isolated laboratory environments (e.g., Commando or Flare VM). This script utilizes multi-layered enforcement to bypass kernel-mode protections and ensure persistence-free operation.
 
