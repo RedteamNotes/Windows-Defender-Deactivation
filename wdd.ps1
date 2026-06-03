@@ -1,7 +1,6 @@
 <#
 .SYNOPSIS
-    defender-deactivation.ps1
-    Comprehensive Windows Defender Deactivation Script.
+    Comprehensive Windows Defender Deactivation Powershell Script
     
 .DESCRIPTION
     A multi-layered neutralization tool designed for isolated lab environments (e.g., Flare or Commando VM).
