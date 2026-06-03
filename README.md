@@ -14,7 +14,7 @@ Run in an **Administrative PowerShell** session. For a total cleanup, use the op
 
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process
-.\defender-deactivation.ps1 [-PurgeFiles]
+.\wdd.ps1 [-PurgeFiles]
 ```
 
 ### Critical Requirements
